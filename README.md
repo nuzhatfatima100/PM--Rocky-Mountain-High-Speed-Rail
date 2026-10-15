@@ -10,8 +10,6 @@ This repository contains the project management plan for the Rocky Mountain Rail
 
 The analysis combines transportation planning, engineering, ridership forecasting, operations planning, financial analysis, economic evaluation, stakeholder engagement, and implementation planning. The goal is to provide RMRA and its partners with an objective basis for deciding whether to advance high-speed rail planning and pursue future federal funding or corridor designation.
 
-This is an academic project completed by Group 1 for the Department of Management at California State University, East Bay.
-
 ## Project Highlights
 
 - Developed a complete project management plan for a large transportation feasibility study.
